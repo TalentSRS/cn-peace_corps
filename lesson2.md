@@ -81,30 +81,30 @@ Now the initials (consonants):
   <th>Note</th>
 </tr>
 
-<tr><td>Bb</td>     <td>boy</td>            <td>bà</td>                             <td>爸</td> <td></td>
-<tr><td>Pp</td>     <td>paper</td>          <td>pó</td>                             <td>婆</td> <td></td>
-<tr><td>Mm</td>     <td>mother</td>         <td>mā</td>                             <td>妈</td> <td></td>
-<tr><td>Ff</td>     <td>food</td>           <td>fā</td>                             <td>发</td> <td></td>
-<tr><td>Dd</td>     <td>door</td>           <td>dà</td>                             <td>大</td> <td></td>
-<tr><td>Tt</td>     <td>tall</td>           <td>tā</td>                             <td>他</td> <td></td>
-<tr><td>Nn</td>     <td>name</td>           <td>nǐ</td>                             <td>你</td> <td></td>
-<tr><td>Ll</td>     <td>life</td>           <td>lè</td>                             <td>乐</td> <td></td>
-<tr><td>Gg</td>     <td>girl</td>           <td>gè</td>                             <td>个</td> <td></td>
-<tr><td>Kk</td>     <td>kid</td>            <td>kè</td>                             <td>客</td> <td></td>
-<tr><td>Hh</td>     <td>high</td>           <td>hé</td>                             <td>和</td> <td></td>
-<tr><td>Jj</td>     <td>jeans</td>          <td>jiě</td>                            <td>姐</td> <td>the lips do not protrude</td>
-<tr><td>Qq</td>     <td>cheese</td>         <td>qián</td>                           <td>钱</td> <td></td>
-<tr><td>Xx</td>     <td>shock</td>          <td>xiū</td>                            <td>休</td> <td>the lips do not protrude</td>
-<tr><td>Zz</td>     <td>kids</td>           <td>zuò</td>                            <td>坐</td> <td></td>
-<tr><td>Cc</td>     <td>cats</td>           <td>cā</td>                             <td>擦</td> <td>Not an equivalent in English</td>
-<tr><td>Ss</td>     <td>sir</td>            <td>sān</td>                            <td>三</td> <td></td>
-<tr><td>Zhzh</td>   <td>joy</td>            <td>zhăo</td>                           <td>找</td> <td>pronounced without rounding and pro</td>
-<tr><td>Chch</td>   <td>child</td>          <td>chuáng</td>                         <td>床</td> <td>See above</td>
-<tr><td>Shsh</td>   <td>shoe</td>           <td>shuō</td>                           <td>说</td> <td>See above</td>
-<tr><td>Rr</td>     <td>red</td>            <td>ruăn</td>                           <td>软</td> <td>See above</td>
-<tr><td>Vv</td>     <td>visit</td>          <td></td>                               <td></td>   <td>Only to spell foreign words</td>
-<tr><td>Ww</td>     <td>white</td>          <td>wǒ</td>                             <td>我</td> <td>Is actually ‘u’ when ‘u’ stands for</td>
-<tr><td>Yy</td>     <td>year</td>           <td>yǒu</td>                            <td>有</td> <td>Is actually ‘i’ (see above)</td>
+<tr><td>Bb</td>     <td>boy</td>            <td>bà 爸</td> <td></td>
+<tr><td>Pp</td>     <td>paper</td>          <td>pó 婆</td> <td></td>
+<tr><td>Mm</td>     <td>mother</td>         <td>mā 妈</td> <td></td>
+<tr><td>Ff</td>     <td>food</td>           <td>fā 发</td> <td></td>
+<tr><td>Dd</td>     <td>door</td>           <td>dà 大</td> <td></td>
+<tr><td>Tt</td>     <td>tall</td>           <td>tā 他</td> <td></td>
+<tr><td>Nn</td>     <td>name</td>           <td>nǐ 你</td> <td></td>
+<tr><td>Ll</td>     <td>life</td>           <td>lè 乐</td> <td></td>
+<tr><td>Gg</td>     <td>girl</td>           <td>gè 个</td> <td></td>
+<tr><td>Kk</td>     <td>kid</td>            <td>kè 客</td> <td></td>
+<tr><td>Hh</td>     <td>high</td>           <td>hé 和</td> <td></td>
+<tr><td>Jj</td>     <td>jeans</td>          <td>jiě 姐</td> <td>the lips do not protrude</td>
+<tr><td>Qq</td>     <td>cheese</td>         <td>qián 钱</td> <td></td>
+<tr><td>Xx</td>     <td>shock</td>          <td>xiū 休</td> <td>the lips do not protrude</td>
+<tr><td>Zz</td>     <td>kids</td>           <td>zuò 坐</td> <td></td>
+<tr><td>Cc</td>     <td>cats</td>           <td>cā 擦</td> <td>Not an equivalent in English</td>
+<tr><td>Ss</td>     <td>sir</td>            <td>sān 三</td> <td></td>
+<tr><td>Zhzh</td>   <td>joy</td>            <td>zhăo 找</td> <td>pronounced without rounding and pro</td>
+<tr><td>Chch</td>   <td>child</td>          <td>chuáng 床</td> <td>See above</td>
+<tr><td>Shsh</td>   <td>shoe</td>           <td>shuō 说</td> <td>See above</td>
+<tr><td>Rr</td>     <td>red</td>            <td>ruăn 软</td> <td>See above</td>
+<tr><td>Vv</td>     <td>visit</td>          <td> </td>   <td>Only to spell foreign words</td>
+<tr><td>Ww</td>     <td>white</td>          <td>wǒ 我</td> <td>Is actually ‘u’ when ‘u’ stands for</td>
+<tr><td>Yy</td>     <td>year</td>           <td>yǒu 有</td> <td>Is actually ‘i’ (see above)</td>
 
 </table>
 
