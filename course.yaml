@@ -48,7 +48,7 @@ units:
    content: lesson1.md
    stencils: lesson1.yaml
  - title: 'Lesson 13: Time'
-   content: lesson1.md
+   content: lesson13.md
    stencils: lesson1.yaml
  - title: 'Lesson 14: Family'
    content: lesson1.md
