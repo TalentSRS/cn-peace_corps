@@ -114,10 +114,7 @@ and zh.
 
 Please listen and repeat the following words:
 
-<pre>zi ci si zhi chi shi ri ji qi xi</pre>
-
-
-
+    zi ci si zhi chi shi ri ji qi xi
 
 ## Tones
 
@@ -130,14 +127,13 @@ Please listen and repeat the following words:
 
 To help you get close, here's a brief try at tones, transcribed in English. Consider the syllable ‘mmm’ (a non-syllable in Mandarin). Then,
 
-<br/>
 
-<pre>
-  ¯  The high level tone is what you might say in English if you were asked a question, and
-     you had to think about it before answering. It's high, and it's a constant tone: “Mmm, sixteen, I
-     think.”
-  ΄  The rising tone is like a question: “Mmm? I didn't catch that.”
-  ˇ  The low level tone is what you might say in English to express doubt, or disbelief:
-     “Mmm...I don't know about that.”
-  ١  The falling tone is like an interjection: “Mmm! Well, I'll be!”
-</pre>
+
+    ¯  The high level tone is what you might say in English if you were asked a question, and
+       you had to think about it before answering. It's high, and it's a constant tone: “Mmm, sixteen, I
+       think.”
+    ΄  The rising tone is like a question: “Mmm? I didn't catch that.”
+    ˇ  The low level tone is what you might say in English to express doubt, or disbelief:
+       “Mmm...I don't know about that.”
+    ١  The falling tone is like an interjection: “Mmm! Well, I'll be!”
+
