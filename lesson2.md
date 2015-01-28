@@ -16,10 +16,9 @@ the retroflex –r, such as jing, nan, yong and er. Consonants are often called
 initials because they invariably appear initially in a word with the exception
 of the final -n, - ng or r, which can appear finally. Vowels are also called
 finals because they appear medially or finally in a word. Vowels can stand by
-themselves when no initial consonant is present. Let’s learn the finals (vowels)
-first:
+themselves when no initial consonant is present.
 
-
+Let’s learn the finals (vowels) first:
 
 <table>
 <tr>
@@ -46,7 +45,7 @@ first:
 <tr><td>iu</td>     <td>yolk</td>            <td>liù 六</td>         <td> </td></tr>
 <tr><td>ou</td>     <td>low</td>             <td>lóu 楼</td>         <td> </td></tr>
 <tr><td>ua</td>     <td>wah</td>             <td>huā 花</td>         <td> </td></tr>
-<tr><td>`e</td>     <td>you ate</td>         <td>yuè 月</td>         <td> ‘`e’ stands for a syllable by itsel</td></tr>
+<tr><td>`e</td>     <td>you ate</td>         <td>yuè 月</td>         <td> ‘`e’ stands for a syllable by itself</td></tr>
 <tr><td>ui</td>     <td>way</td>             <td>huì 会</td>         <td> </td></tr>
 <tr><td>uo</td>     <td>war</td>             <td>zuò 做</td>         <td> </td></tr>
 <tr><td>iao</td>    <td>miaow</td>           <td>yào 要</td>         <td> </td></tr>
@@ -59,4 +58,93 @@ first:
 <tr><td>ian</td>    <td>yen</td>             <td>diăn 点</td>        <td>  </td></tr>
 <tr><td>iang</td>   <td>yahng</td>           <td>liáng xié 凉</td>   <td>       </td></tr>
 <tr><td>in</td>     <td>inn</td>             <td>xīn 心</td>         <td> </td></tr>
+<tr><td>ing</td>    <td>eeng</td>            <td>tīng 听</td><td></td></tr>
+<tr><td>iong</td>   <td>yohng</td>           <td>yòng 用</td><td></td></tr>
+<tr><td>ong</td>    <td>song</td>            <td>dōng 冬</td><td></td></tr>
+<tr><td>uan</td>    <td>wand</td>            <td>guān 关</td><td></td></tr>
+<tr><td>un</td>     <td>when</td>            <td>hūn 昏</td><td></td></tr>
+<tr><td>uang</td>   <td>wong</td>            <td>huáng 黄</td><td></td></tr>
+<tr><td>`an</td>    <td>you</td>             <td>an quán 全</td><td></td></tr>
+<tr><td>`n</td>     <td>yuen</td>            <td>jūn 军</td><td></td></tr>
+
+</table>
+
+
+
+Now the initials (consonants):
+
+<table>
+<tr>
+  <th>Mandarin</th>
+  <th>Similar English Sound</th>
+  <th>Example (pinyin & Character)</th>
+  <th>Note</th>
+</tr>
+
+<tr><td>Bb</td>     <td>boy</td>            <td>bà</td>                             <td>爸</td> <td></td>
+<tr><td>Pp</td>     <td>paper</td>          <td>pó</td>                             <td>婆</td> <td></td>
+<tr><td>Mm</td>     <td>mother</td>         <td>mā</td>                             <td>妈</td> <td></td>
+<tr><td>Ff</td>     <td>food</td>           <td>fā</td>                             <td>发</td> <td></td>
+<tr><td>Dd</td>     <td>door</td>           <td>dà</td>                             <td>大</td> <td></td>
+<tr><td>Tt</td>     <td>tall</td>           <td>tā</td>                             <td>他</td> <td></td>
+<tr><td>Nn</td>     <td>name</td>           <td>nǐ</td>                             <td>你</td> <td></td>
+<tr><td>Ll</td>     <td>life</td>           <td>lè</td>                             <td>乐</td> <td></td>
+<tr><td>Gg</td>     <td>girl</td>           <td>gè</td>                             <td>个</td> <td></td>
+<tr><td>Kk</td>     <td>kid</td>            <td>kè</td>                             <td>客</td> <td></td>
+<tr><td>Hh</td>     <td>high</td>           <td>hé</td>                             <td>和</td> <td></td>
+<tr><td>Jj</td>     <td>jeans</td>          <td>jiě</td>                            <td>姐</td> <td>the lips do not protrude</td>
+<tr><td>Qq</td>     <td>cheese</td>         <td>qián</td>                           <td>钱</td> <td></td>
+<tr><td>Xx</td>     <td>shock</td>          <td>xiū</td>                            <td>休</td> <td>the lips do not protrude</td>
+<tr><td>Zz</td>     <td>kids</td>           <td>zuò</td>                            <td>坐</td> <td></td>
+<tr><td>Cc</td>     <td>cats</td>           <td>cā</td>                             <td>擦</td> <td>Not an equivalent in English</td>
+<tr><td>Ss</td>     <td>sir</td>            <td>sān</td>                            <td>三</td> <td></td>
+<tr><td>Zhzh</td>   <td>joy</td>            <td>zhăo</td>                           <td>找</td> <td>pronounced without rounding and pro</td>
+<tr><td>Chch</td>   <td>child</td>          <td>chuáng</td>                         <td>床</td> <td>See above</td>
+<tr><td>Shsh</td>   <td>shoe</td>           <td>shuō</td>                           <td>说</td> <td>See above</td>
+<tr><td>Rr</td>     <td>red</td>            <td>ruăn</td>                           <td>软</td> <td>See above</td>
+<tr><td>Vv</td>     <td>visit</td>          <td></td>                               <td></td>   <td>Only to spell foreign words</td>
+<tr><td>Ww</td>     <td>white</td>          <td>wǒ</td>                             <td>我</td> <td>Is actually ‘u’ when ‘u’ stands for</td>
+<tr><td>Yy</td>     <td>year</td>           <td>yǒu</td>                            <td>有</td> <td>Is actually ‘i’ (see above)</td>
+
+</table>
+
+Some sounds are especially difficult for English speakers to remember, and have similar
+pronunciations. The sound q, for example, sounds a little like ch. Similar pairs are x and sh, and j
+and zh.
+
+Please listen and repeat the following words:
+
+<pre>zi ci si zhi chi shi ri ji qi xi</pre>
+
+
+
+
+## Tones
+
+<table>
+<tr><td>High</td><td>¯</td><td>high, flat, continuous tone</td></tr>
+<tr><td>Rising</td><td>΄</td><td>rising tone similar to the intonation used in the question ‘What?’</td></tr>
+<tr><td>Falling-rising</td><td>ˇ</td><td>tone that falls then rises. You'll hear many Mandarin speakers ‘swallow’ the rising sound, only giving it a clear falling-rising pattern for emphasis.</td></tr>
+<tr><td>Falling</td><td>١</td><td>falling tone, similar to the one used when yelling ‘Darn!’</td></tr>
+</table>
+
+To help you get close, here's a brief try at tones, transcribed in English. Consider the syllable ‘mmm’ (a non-syllable in Mandarin). Then,
+
+<table>
+<tr>
+  <td>¯</td>
+  <td>The high level tone is what you might say in English if you were asked a question, and you had to think about it before answering. It's high, and it's a constant tone: “Mmm, sixteen, I think.”</td>
+</tr>
+<tr>
+  <td>΄</td>
+  <td>The rising tone is like a question: “Mmm? I didn't catch that.”</td>
+</tr>
+<tr>
+  <td>ˇ</td>
+  <td>The low level tone is what you might say in English to express doubt, or disbelief: “Mmm...I don't know about that.”</td>
+</tr>
+<tr>
+  <td>١</td>
+  <td>The falling tone is like an interjection: “Mmm! Well, I'll be!”</td>
+</tr>
 </table>
