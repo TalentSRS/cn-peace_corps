@@ -1,13 +1,13 @@
 parents: []
 # - https://github.com/TalentSRS/cn-comprehensive
 hidden: true
-title: Peace Corps: China
+title: 'Peace Corps: China'
 tags:
  - Beginner
  - Lessons
 description: Introduction to Mandarin Chinese from the Peace Corps.
 image: US-PeaceCorps-Logo.svg
 units:
- - title: Lesson 1: Introduction to Chinese Language
+ - title: 'Lesson 1: Introduction to Chinese Language'
    content: lesson1.md
    stencils: []
