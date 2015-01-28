@@ -15,7 +15,7 @@ units:
    content: lesson1.md
    stencils: lesson1.yaml
  - title: 'Lesson 2: Phonetics'
-   content: lesson1.md
+   content: lesson2.md
    stencils: lesson1.yaml
  - title: 'Lesson 3: Basic Grammar'
    content: lesson1.md
