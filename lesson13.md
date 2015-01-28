@@ -1,5 +1,6 @@
 
 <table>
+<tr><th colspan="3">Vocabulary</th></tr>
 <tr><td>Monday</td>         <td>Xīngqī yī</td>         <td>星期一</td></tr>
 <tr><td>Tuesday</td>        <td>Xīngqī èr</td>         <td>星期二</td></tr>
 <tr><td>Wednesday</td>      <td>Xīngqī sān</td>        <td>星期三</td></tr>
@@ -29,9 +30,9 @@
 <tr><td>yesterday</td>      <td>zuótiān</td>           <td>昨天</td></tr>
 <tr><td>today</td>          <td>jīntiān</td>           <td>今天</td></tr>
 <tr><td>tomorrow</td>       <td>míngtiān</td>          <td>明天</td></tr>
-</table>
 
-<table>
+<tr></tr>
+<tr><th colspan="3">Useful phrases</th></tr>
 <tr><td>What time is it?</td>             <td>Jǐ diăn le?</td>           <td>几点了？</td></tr>
 <tr><td>It is 10:00.00</td>               <td>Jiǔ diăn shí fēn。</td>     <td>九点十分。</td></tr>
 <tr><td>What day is it?</td>              <td>Jīntiān xīngqī jǐ?</td>    <td>今天星期几？</td></tr>
