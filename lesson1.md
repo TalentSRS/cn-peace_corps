@@ -11,11 +11,12 @@ lowering of pitch on certain syllables. Mandarin has four tones – high, rising
 falling, plus a fifth “neutral” tone. To illustrate, look at the word ma, which has four different
 meanings according to tone:
 
-| High           | mā | 'mother'              |
-|----------------|----|-----------------------|
-| Rising         | má | 'hemp' or 'numb'      |
-| Falling-rising | mă | 'horse'               |
-| Falling        | mà | 'to scold' or 'swear' |
+<table>
+<tr><td>High</td><td>mā</td><td>'mother'</td></tr>
+<tr><td>Rising</td><td>má</td><td>'hemp' or 'numb'</td></tr>
+<tr><td>Falling-rising</td><td>mă</td><td>'horse'</td></tr>
+<tr><td>Falling</td><td>mà</td><td>'to scold' or 'swear'</td></tr>
+</table>
 
 ## Writing System
 
