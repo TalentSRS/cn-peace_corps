@@ -98,12 +98,12 @@ Now the initials (consonants):
 <tr><td>Zz</td>     <td>kids</td>           <td>zuò</td>                            <td>坐</td> <td></td>
 <tr><td>Cc</td>     <td>cats</td>           <td>cā</td>                             <td>擦</td> <td>Not an equivalent in English</td>
 <tr><td>Ss</td>     <td>sir</td>            <td>sān</td>                            <td>三</td> <td></td>
-<tr><td>Zhzh</td>   <td>joy</td>            <td>zhăo</td>                           <td>找</td> <td>pronounced without rounding and pro</td>
+<tr><td>Zhzh</td>   <td>joy</td>            <td>zhăo</td>                           <td>找</td> <td>pronounced without rounding and protruding the lips</td>
 <tr><td>Chch</td>   <td>child</td>          <td>chuáng</td>                         <td>床</td> <td>See above</td>
 <tr><td>Shsh</td>   <td>shoe</td>           <td>shuō</td>                           <td>说</td> <td>See above</td>
 <tr><td>Rr</td>     <td>red</td>            <td>ruăn</td>                           <td>软</td> <td>See above</td>
 <tr><td>Vv</td>     <td>visit</td>          <td></td>                               <td></td>   <td>Only to spell foreign words</td>
-<tr><td>Ww</td>     <td>white</td>          <td>wǒ</td>                             <td>我</td> <td>Is actually ‘u’ when ‘u’ stands for</td>
+<tr><td>Ww</td>     <td>white</td>          <td>wǒ</td>                             <td>我</td> <td>Is actually ‘u’ when ‘u’ stands for a syllable by itself</td>
 <tr><td>Yy</td>     <td>year</td>           <td>yǒu</td>                            <td>有</td> <td>Is actually ‘i’ (see above)</td>
 
 </table>
@@ -130,6 +130,8 @@ Please listen and repeat the following words:
 
 To help you get close, here's a brief try at tones, transcribed in English. Consider the syllable ‘mmm’ (a non-syllable in Mandarin). Then,
 
+<br/>
+
 <pre>
   ¯  The high level tone is what you might say in English if you were asked a question, and
      you had to think about it before answering. It's high, and it's a constant tone: “Mmm, sixteen, I
@@ -140,7 +142,7 @@ To help you get close, here's a brief try at tones, transcribed in English. Cons
   ١  The falling tone is like an interjection: “Mmm! Well, I'll be!”
 </pre>
 
-<table>
+<!-- <table>
 <tr>
   <td>¯</td>
   <td>The high level tone is what you might say in English if you were asked a question, and you had to think about it before answering. It's high, and it's a constant tone: “Mmm, sixteen, I think.”</td>
@@ -158,3 +160,4 @@ To help you get close, here's a brief try at tones, transcribed in English. Cons
   <td>The falling tone is like an interjection: “Mmm! Well, I'll be!”</td>
 </tr>
 </table>
+ -->
