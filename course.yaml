@@ -10,4 +10,4 @@ image: US-PeaceCorps-Logo.svg
 units:
  - title: 'Lesson 1: Introduction to Chinese Language'
    content: lesson1.md
-   stencils: []
+   stencils: lesson1.yaml
