@@ -141,23 +141,3 @@ To help you get close, here's a brief try at tones, transcribed in English. Cons
      “Mmm...I don't know about that.”
   ١  The falling tone is like an interjection: “Mmm! Well, I'll be!”
 </pre>
-
-<!-- <table>
-<tr>
-  <td>¯</td>
-  <td>The high level tone is what you might say in English if you were asked a question, and you had to think about it before answering. It's high, and it's a constant tone: “Mmm, sixteen, I think.”</td>
-</tr>
-<tr>
-  <td>΄</td>
-  <td>The rising tone is like a question: “Mmm? I didn't catch that.”</td>
-</tr>
-<tr>
-  <td>ˇ</td>
-  <td>The low level tone is what you might say in English to express doubt, or disbelief: “Mmm...I don't know about that.”</td>
-</tr>
-<tr>
-  <td>١</td>
-  <td>The falling tone is like an interjection: “Mmm! Well, I'll be!”</td>
-</tr>
-</table>
- -->
