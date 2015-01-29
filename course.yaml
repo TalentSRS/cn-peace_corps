@@ -24,7 +24,7 @@ units:
    content: lesson4.md
    stencils: lesson1.yaml
  - title: 'Lesson 5: Introductions'
-   content: lesson1.md
+   content: lesson5.md
    stencils: lesson1.yaml
  - title: 'Lesson 6: Numbers/Prices'
    content: lesson1.md
