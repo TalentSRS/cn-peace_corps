@@ -1,0 +1,52 @@
+- chinese: 不是我们。
+  english:
+  - It's not us.
+  type: chinese
+  comment: ! 'Covers: 我们. Cost: 0.0'
+- chinese: 你们呢？
+  english:
+  - How about you?
+  - And you?
+  - What about you?
+  type: chinese
+  comment: ! 'Covers: 呢. Cost: 0.0'
+- chinese: 他们没听。
+  english:
+  - They didn't listen.
+  type: chinese
+  comment: ! 'Covers: 他们. Cost: 2.1030449988538403e-4'
+- chinese: 他姓什么？
+  english:
+  - What is his last (family) name?
+  type: chinese
+  comment: ! 'Covers: 姓. Cost: 0.0'
+- chinese: 他叫什么名字？
+  english:
+  - What is his name?
+  type: chinese
+  comment: ! 'Covers: 名字. Cost: 0.0'
+- chinese: 他姓王吗？
+  english:
+  - Is his last (family) name Wang?
+  type: chinese
+  comment: ! 'Covers: 王. Cost: 0.0'
+- chinese: 她下楼。
+  english:
+  - She was coming down the stairs.
+  type: chinese
+  comment: ! 'Covers: 她. Cost: 0.0'
+- chinese: 它很大。
+  english:
+  - It's very big.
+  type: chinese
+  comment: ! 'Covers: 它. Cost: 1.672442166949867e-4'
+- chinese: 请问这是谁？
+  english:
+  - Who is this, please?
+  type: chinese
+  comment: ! 'Covers: 请问. Cost: 6.355299366376653e-4'
+- chinese: 谁是张先生？
+  english:
+  - Who is Mr. Zhang?
+  type: chinese
+  comment: ! 'Covers: 张. Cost: 7.158247374712775e-4'

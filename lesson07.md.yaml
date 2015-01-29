@@ -1,0 +1,168 @@
+- chinese: 买单。
+  english:
+  - The check, please.
+  - The bill, please.
+  type: chinese
+  comment: ! 'Covers: 买单. Cost: 0.0'
+- chinese: 我不要。
+  english:
+  - I don't want to.
+  type: chinese
+  comment: ! 'Covers: 不要. Cost: 0.0'
+- chinese: 不, 我没有。
+  english:
+  - No, I don't have it.
+  type: chinese
+  comment: ! 'Covers: 没有. Cost: 0.0'
+- chinese: 没有盐。
+  english:
+  - There's no salt.
+  type: chinese
+  comment: ! 'Covers: 盐. Cost: 0.0'
+- chinese: 我擦盘子。
+  english:
+  - I'll dry the dishes.
+  type: chinese
+  comment: ! 'Covers: 盘子. Cost: 0.0'
+- chinese: ! '"我也要牛肉。"'
+  english:
+  - I want beef, too.
+  type: chinese
+  comment: ! 'Covers: 牛肉. Cost: 2.545241670696633e-4'
+- chinese: 不算什么
+  english:
+  - It means nothing to me.
+  type: chinese
+  comment: ! 'Covers: 算. Cost: 0.0'
+- chinese: ! '......你喜欢什么？'
+  english:
+  - What do you like?
+  type: chinese
+  comment: ! 'Covers: 喜欢. Cost: 0.0'
+- chinese: 我不喜欢咖啡。
+  english:
+  - I don't like coffee.
+  type: chinese
+  comment: ! 'Covers: 咖啡. Cost: 0.0'
+- chinese: 你是我的。
+  english:
+  - You're mine.
+  type: chinese
+  comment: ! 'Covers: 的. Cost: 0.0'
+- chinese: 你喜欢什么牌子的酸奶？
+  english:
+  - What's your favorite brand of yogurt?
+  type: chinese
+  comment: ! 'Covers: 酸奶. Cost: 7.94912559618442e-2'
+- chinese: 你热不热？
+  english:
+  - Are you hot?
+  type: chinese
+  comment: ! 'Covers: 热. Cost: 0.0'
+- chinese: 啤酒我不太喜欢。
+  english:
+  - I don't like beer that much.
+  type: chinese
+  comment: ! 'Covers: 太. Cost: 0.0'
+- chinese: 我不喜欢吃辣的。
+  english:
+  - I don't like spicy food.
+  type: chinese
+  comment: ! 'Covers: 辣. Cost: 1.2017353057815485e-3'
+- chinese: 为什么你不吃蔬菜？
+  english:
+  - Why don't you eat vegetables?
+  type: chinese
+  comment: ! 'Covers: 蔬菜. Cost: 1.2017353057815485e-3'
+- chinese: 水是凉的
+  english:
+  - The water is cold
+  type: chinese
+  comment: ! 'Covers: 水. Cost: 0.0'
+- chinese: 你们有没有米饭？
+  english:
+  - Do you have rice?
+  type: chinese
+  comment: ! 'Covers: 米饭. Cost: 0.0'
+- chinese: 我去买面包。
+  english:
+  - I'm going to buy some bread.
+  type: chinese
+  comment: ! 'Covers: 面包. Cost: 2.057388803278655e-4'
+- chinese: Tom会做面条。
+  english:
+  - Tom knows how to cook spaghetti.
+  type: chinese
+  comment: ! 'Covers: 面条. Cost: 0.0'
+- chinese: 我很想吃饺子。
+  english:
+  - I feel like having some dumplings.
+  type: chinese
+  comment: ! 'Covers: 饺子. Cost: 1.2017353057815485e-3'
+- chinese: 你用多少糖？
+  english:
+  - How much sugar do you use?
+  type: chinese
+  comment: ! 'Covers: 糖. Cost: 0.0'
+- chinese: 一瓶啤酒多少钱？
+  english:
+  - How much does a beer cost?
+  - How much is a beer?
+  type: chinese
+  comment: ! 'Covers: 啤酒. Cost: 0.0'
+- chinese: 我买了两瓶牛奶。
+  english:
+  - I bought two bottles of milk.
+  type: chinese
+  comment: ! 'Covers: 牛奶. Cost: 3.544577133720236e-5'
+- chinese: 我买了些辣椒。
+  english:
+  - I have bought some peppers.
+  type: chinese
+  comment: ! 'Covers: 辣椒. Cost: 1.5759944524995273e-3'
+- chinese: 噢，咖啡太烫了。
+  english:
+  - Ow, the coffee is very hot!
+  type: chinese
+  comment: ! 'Covers: 烫. Cost: 1.149240352127244e-3'
+- chinese: 如果你不喜欢吃猪肉，我们可以吃牛肉。
+  english:
+  - If you don't like to eat pork, we can eat beef.
+  type: chinese
+  comment: ! 'Covers: 猪肉. Cost: 1.2017353057815485e-3'
+- chinese: 你想喝啤酒还是想喝果汁？
+  english:
+  - Would you like to drink beer or juice?
+  type: chinese
+  comment: ! 'Covers: 果汁. Cost: 2.395496466642712e-3'
+- chinese: 請给我们两碗饭。
+  english:
+  - Please give me two bowls of rice.
+  type: chinese
+  comment: ! 'Covers: 碗. Cost: 1.096358991788271e-3'
+- chinese: 求你了，给我一个瓶子吧！
+  english:
+  - I beg you, give me a bottle!
+  type: chinese
+  comment: ! 'Covers: 瓶子. Cost: 3.076544425301501e-3'
+- chinese: 他与她是朋友。
+  english:
+  - They are friends
+  - He and she are friends
+  type: chinese
+  comment: ! 'Covers: 与. Cost: 1.2894075172458256e-3'
+- chinese: 将费用记在我的账上。
+  english:
+  - Charge this bill to me.
+  type: chinese
+  comment: ! 'Covers: 账. Cost: 5.546311702717693e-2'
+- chinese: 我们的车再过十分钟就没油了。
+  english:
+  - Ten minutes later, our car ran out of gas.
+  type: chinese
+  comment: ! 'Covers: 油. Cost: 3.041640052316209e-3'
+- chinese: 我们在上个冰冻期之後把管道用保温材料裹上了。
+  english:
+  - After the last freeze-up we put insulation round the pipes.
+  type: chinese
+  comment: ! 'Covers: 冰冻. Cost: 2.2222222222222223'

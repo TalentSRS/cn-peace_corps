@@ -1,0 +1,247 @@
+- chinese: Kate, 坐吧。
+  english:
+  - Sit down, Kate.
+  type: chinese
+  comment: ! 'Covers: 坐. Cost: 1.7284531036103928e-4'
+- chinese: 别碰。
+  english:
+  - Don't touch.
+  type: chinese
+  comment: ! 'Covers: 碰. Cost: 4.801621027258802e-4'
+- chinese: 我用Twitter。
+  english:
+  - I use Twitter.
+  type: chinese
+  comment: ! 'Covers: 用. Cost: 0.0'
+- chinese: 听我说！
+  english:
+  - Listen to me!
+  type: chinese
+  comment: ! 'Covers: 听. Cost: 0.0'
+- chinese: 我全知道。
+  english:
+  - I know all that.
+  type: chinese
+  comment: ! 'Covers: 全. Cost: 1.7050763533191015e-4'
+- chinese: 他不知道。
+  english:
+  - He didn't know that.
+  type: chinese
+  comment: ! 'Covers: 不. Cost: 1.7050763533191015e-4'
+- chinese: 他没有钱。
+  english:
+  - He had no money.
+  type: chinese
+  comment: ! 'Covers: 钱. Cost: 3.09935285512385e-4'
+- chinese: 我要你
+  english:
+  - I want you.
+  type: chinese
+  comment: ! 'Covers: 要. Cost: 0.0'
+- chinese: 你有吗？
+  english:
+  - Do you have one?
+  type: chinese
+  comment: ! 'Covers: 有. Cost: 1.3462392805697285e-4'
+- chinese: 你爸呢？
+  english:
+  - How about your father?
+  - Where's your father?
+  type: chinese
+  comment: ! 'Covers: 爸. Cost: 4.37076309152815e-4'
+- chinese: 她美吗？
+  english:
+  - Is she beautiful?
+  type: chinese
+  comment: ! 'Covers: 美. Cost: 1.51506198876127e-4'
+- chinese: 她下楼。
+  english:
+  - She was coming down the stairs.
+  type: chinese
+  comment: ! 'Covers: 下. Cost: 1.51506198876127e-4'
+- chinese: Mayuko用布擦桌子。
+  english:
+  - Mayuko wiped a table with a cloth.
+  type: chinese
+  comment: ! 'Covers: 擦. Cost: 2.169668040789759e-2'
+- chinese: 不关你的事。
+  english:
+  - It has nothing to do with you.
+  type: chinese
+  comment: ! 'Covers: 关. Cost: 3.433099195968168e-4'
+- chinese: 我会做的。
+  english:
+  - I'll do it.
+  type: chinese
+  comment: ! 'Covers: 会. Cost: 1.99381399270623e-5'
+- chinese: 他在做什么？
+  english:
+  - What's he doing?
+  type: chinese
+  comment: ! 'Covers: 他. Cost: 1.4183552185543556e-4'
+- chinese: 你在找什么？
+  english:
+  - What are you looking for?
+  type: chinese
+  comment: ! 'Covers: 找. Cost: 1.4183552185543556e-4'
+- chinese: 他家在二楼。
+  english:
+  - His home is on the 2nd floor.
+  type: chinese
+  comment: ! 'Covers: 二. Cost: 1.2385127938371605e-3'
+- chinese: 做好了
+  english:
+  - Finished.
+  type: chinese
+  comment: ! 'Covers: 好. Cost: 3.544577133720236e-5'
+- chinese: 你问她了吗？她说了什么？
+  english:
+  - You asked about her? What did she say?
+  type: chinese
+  comment: ! 'Covers: 问. Cost: 1.51506198876127e-4'
+- chinese: 我快好了。
+  english:
+  - I'm about ready.
+  type: chinese
+  comment: ! 'Covers: 快. Cost: 3.544577133720236e-5'
+- chinese: 她昏过去了。
+  english:
+  - She passed out.
+  type: chinese
+  comment: ! 'Covers: 昏. Cost: 2.487685954525101e-3'
+- chinese: 对她好点。
+  english:
+  - Be nice to her.
+  type: chinese
+  comment: ! 'Covers: 点. Cost: 2.52599884309253e-4'
+- chinese: 他六点回来了。
+  english:
+  - He returned at six.
+  type: chinese
+  comment: ! 'Covers: 六. Cost: 1.4960653481344067e-3'
+- chinese: 我在床上。
+  english:
+  - I'm in bed.
+  type: chinese
+  comment: ! 'Covers: 床. Cost: 2.933127623316018e-4'
+- chinese: 我给我妈了。
+  english:
+  - I gave it to my mommy.
+  type: chinese
+  comment: ! 'Covers: 妈. Cost: 2.861549643593992e-4'
+- chinese: 把我的心给你。
+  english:
+  - I give you my heart.
+  type: chinese
+  comment: ! 'Covers: 心. Cost: 2.861549643593992e-4'
+- chinese: 走慢点。
+  english:
+  - Walk more slowly.
+  type: chinese
+  comment: ! 'Covers: 慢. Cost: 5.140595280933532e-4'
+- chinese: 我和我自己来。
+  english:
+  - I come with myself.
+  type: chinese
+  comment: ! 'Covers: 和. Cost: 5.786065995868749e-4'
+- chinese: 她把自己关在房里。
+  english:
+  - She shut herself up in her room.
+  type: chinese
+  comment: ! 'Covers: 房. Cost: 5.786065995868749e-4'
+- chinese: 他65岁退了休。
+  english:
+  - He retired at the age of 65.
+  type: chinese
+  comment: ! 'Covers: 休. Cost: 2.105706464518846e-2'
+- chinese: 树是绿的。
+  english:
+  - The trees are green.
+  type: chinese
+  comment: ! 'Covers: 绿. Cost: 1.5603058199407082e-2'
+- chinese: 水是凉的
+  english:
+  - The water is cold
+  type: chinese
+  comment: ! 'Covers: 凉. Cost: 4.425170369059209e-3'
+- chinese: 这是花吗？
+  english:
+  - Is this a flower?
+  type: chinese
+  comment: ! 'Covers: 花. Cost: 1.3462392805697285e-4'
+- chinese: 这我要三个。
+  english:
+  - I'd like three of these.
+  type: chinese
+  comment: ! 'Covers: 个. Cost: 1.1689166363722437e-4'
+- chinese: 这个太大了。
+  english:
+  - This is too big.
+  type: chinese
+  comment: ! 'Covers: 大. Cost: 5.149038931883364e-4'
+- chinese: 生日同乐！
+  english:
+  - Let's have a good birthday celebration!
+  type: chinese
+  comment: ! 'Covers: 乐. Cost: 8.82768361581921e-3'
+- chinese: 大家高兴地玩吧!
+  english:
+  - Let's enjoy ourselves.
+  type: chinese
+  comment: ! 'Covers: 地. Cost: 2.573936320815423e-3'
+- chinese: 她建议他多喝奶。
+  english:
+  - She advised him to drink more milk.
+  type: chinese
+  comment: ! 'Covers: 奶. Cost: 8.784258608573436e-3'
+- chinese: 秋天时叶子变黄。
+  english:
+  - The leaves turn yellow in autumn.
+  type: chinese
+  comment: ! 'Covers: 黄. Cost: 0.2770083102493075'
+- chinese: 那就这样，一个月1500。
+  english:
+  - ! 'Then how about this: 1500 a month.'
+  type: chinese
+  comment: ! 'Covers: 月. Cost: 5.217600008348161e-4'
+- chinese: 败军很快就投降了。
+  english:
+  - The beaten army soon surrendered.
+  type: chinese
+  comment: ! 'Covers: 军. Cost: 0.1044932079414838'
+- chinese: 我们明天会有一个数学小测。
+  english:
+  - We will have a math quiz tomorrow.
+  type: chinese
+  comment: ! 'Covers: 测. Cost: 4.5641259698767686e-2'
+- chinese: 肥皂粉别用得太多, 这儿的水很软.
+  english:
+  - Don't use much soap powder the water here is very soft.
+  type: chinese
+  comment: ! 'Covers: 软. Cost: 9.216589861751152e-2'
+- chinese: 别再往Facebook上发私人照片了。
+  english:
+  - You need to stop posting private photos on Facebook.
+  type: chinese
+  comment: ! 'Covers: 发. Cost: 1.3338668800853675e-2'
+- chinese: Tatoeba:好像怪客入侵还不够似的。
+  english:
+  - ! 'Tatoeba: As if the geek invasion wasn''t enough.'
+  type: chinese
+  comment: ! 'Covers: 客. Cost: 4.9776007964161276e-2'
+- chinese: 宴会结束时，我们谢了主人后便回家去了。
+  english:
+  - At the end of the party, we thanked our host and went away.
+  type: chinese
+  comment: ! 'Covers: 谢. Cost: 5.608524957936063e-2'
+- chinese: 寒冷干燥，灿烂的阳光，多么美丽的冬日天气!
+  english:
+  - Cold and dry, splendid sunshine, what beautiful winter weather!
+  type: chinese
+  comment: ! 'Covers: 冬. Cost: 0.29154518950437314'
+- chinese: QA团队发现了一个重大bug，因此，建议重新审查所有工作。
+  english:
+  - QA team has discovered a serious bug. In consequence, it is recommended that all
+    works be reviewed from the beginning.
+  type: chinese
+  comment: ! 'Covers: Q. Cost: 0.1582278481012658'

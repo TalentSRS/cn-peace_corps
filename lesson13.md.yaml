@@ -1,0 +1,151 @@
+- chinese: 几点了？
+  english:
+  - What time is it?
+  type: chinese
+  comment: ! 'Covers: 几点了. Cost: 0.0'
+- chinese: 今天是星期一。
+  english:
+  - It's Monday.
+  - It's Monday today.
+  type: chinese
+  comment: ! 'Covers: 星期一. Cost: 0.0'
+- chinese: 今天是星期六。
+  english:
+  - Today is Saturday.
+  type: chinese
+  comment: ! 'Covers: 星期六. Cost: 0.0'
+- chinese: 明天是星期天。
+  english:
+  - It is Sunday tomorrow.
+  - Tomorrow is Sunday.
+  type: chinese
+  comment: ! 'Covers: 星期天. Cost: 0.0'
+- chinese: 今天是几号？
+  english:
+  - What's the date today?
+  type: chinese
+  comment: ! 'Covers: 号. Cost: 0.0'
+- chinese: 是十月三号。
+  english:
+  - It's October the third.
+  type: chinese
+  comment: ! 'Covers: 十月. Cost: 0.0'
+- chinese: 是十月三日。
+  english:
+  - It's the third of October.
+  - It's October the third.
+  type: chinese
+  comment: ! 'Covers: 日. Cost: 0.0'
+- chinese: ! 'Q: 今天星期几?
+
+    A: 星期四。
+
+'
+  english:
+  - ! 'What day is it?
+
+    It''s Thursday.
+
+'
+  type: chinese
+  comment: ! 'Covers: 星期四. Cost: 0.0'
+- chinese: 上个月是十一月吗？
+  english:
+  - Was last month November?
+  type: chinese
+  comment: ! 'Covers: 十一月. Cost: 0.12706480304955528'
+- chinese: 你星期二有空吗？
+  english:
+  - Are you free on Tuesday?
+  type: chinese
+  comment: ! 'Covers: 星期二. Cost: 4.027386226339106e-2'
+- chinese: 你明天要做什么？
+  english:
+  - What are you going to do tomorrow?
+  type: chinese
+  comment: ! 'Covers: 明天. Cost: 0.0'
+- chinese: 你这个周末要做什么？
+  english:
+  - What're you going to do this weekend?
+  type: chinese
+  comment: ! 'Covers: 周末. Cost: 0.0'
+- chinese: 你昨天晚上做了什么？
+  english:
+  - What did you do yesterday evening?
+  type: chinese
+  comment: ! 'Covers: 昨天. Cost: 0.0'
+- chinese: 现在是六点十分。
+  english:
+  - It's now six ten.
+  type: chinese
+  comment: ! 'Covers: 十分. Cost: 3.806913354652048e-4'
+- chinese: 我要在你这星期五。
+  english:
+  - I hope to see you this Friday.
+  type: chinese
+  comment: ! 'Covers: 星期五. Cost: 0.0'
+- chinese: 我下星期三见你。
+  english:
+  - I'll see you next Wednesday.
+  type: chinese
+  comment: ! 'Covers: 星期三. Cost: 1.143327540473795e-3'
+- chinese: 我女儿打算在六月结婚。
+  english:
+  - My daughter is to get married in June.
+  type: chinese
+  comment: ! 'Covers: 六月. Cost: 5.13347022587269e-3'
+- chinese: 这钱你和我分了吧。
+  english:
+  - Let's divide this money between you and me.
+  type: chinese
+  comment: ! 'Covers: 分. Cost: 1.7284531036103928e-4'
+- chinese: 我学英语学了4年了。
+  english:
+  - I have been studying English for four years.
+  type: chinese
+  comment: ! 'Covers: 年. Cost: 0.0'
+- chinese: 我会在七月一号开始上班。
+  english:
+  - I will start working on July first.
+  type: chinese
+  comment: ! 'Covers: 一号. Cost: 1.5103458692040479e-2'
+- chinese: 从七月开始我们一直住在这里。
+  english:
+  - We've been living here since July.
+  type: chinese
+  comment: ! 'Covers: 七月. Cost: 1.7113910186199342e-3'
+- chinese: 这里在二月时非常冷。
+  english:
+  - It's very cold here in February.
+  type: chinese
+  comment: ! 'Covers: 二月. Cost: 1.43184421534937e-2'
+- chinese: 他去年八月回来的。
+  english:
+  - He came back last August.
+  type: chinese
+  comment: ! 'Covers: 八月. Cost: 1.768346595932803e-2'
+- chinese: 他去年九月进了这所学校。
+  english:
+  - He got into this school in September last year.
+  type: chinese
+  comment: ! 'Covers: 九月. Cost: 1.768346595932803e-2'
+- chinese: 十二月是一年的最后一个月。
+  english:
+  - December is the last month of the year.
+  type: chinese
+  comment: ! 'Covers: 十二月. Cost: 2.2070183182520413e-3'
+- chinese: 一月是一年之中的头一个月。
+  english:
+  - January is the first month of the year.
+  type: chinese
+  comment: ! 'Covers: 一月. Cost: 1.0'
+- chinese: 我是在一九六二年三月二十二日出生的。
+  english:
+  - I was born on March 22, 1962.
+  type: chinese
+  comment: ! 'Covers: 三月. Cost: 5.4288816503800214e-2'
+- chinese: Tom是二零一零年五月五日出生的。
+  english:
+  - Tom was born on May 5, 2010.
+  type: chinese
+  comment: ! 'Covers: 五月. Cost: 5.7937427578215524e-2'

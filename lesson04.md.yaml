@@ -1,0 +1,37 @@
+- chinese: 你好。
+  english:
+  - Hello!
+  - Hi.
+  type: chinese
+  comment: ! 'Covers: 你好. Cost: 0.0'
+- chinese: 早上好！
+  english:
+  - Good morning!
+  - Good morning.
+  type: chinese
+  comment: ! 'Covers: 早上好. Cost: 0.0'
+- chinese: 早！
+  english:
+  - Good morning!
+  type: chinese
+  comment: ! 'Covers: 早. Cost: 0.0'
+- chinese: 再见。
+  english:
+  - See you later.
+  type: chinese
+  comment: ! 'Covers: 再见. Cost: 0.0'
+- chinese: 下午好。
+  english:
+  - Good afternoon.
+  type: chinese
+  comment: ! 'Covers: 下午. Cost: 0.0'
+- chinese: 她晚上做什么?
+  english:
+  - What does she do in the evening?
+  type: chinese
+  comment: ! 'Covers: 晚上. Cost: 1.51506198876127e-4'
+- chinese: 你早上吃了什么？
+  english:
+  - What did you eat in the morning?
+  type: chinese
+  comment: ! 'Covers: 早上. Cost: 1.2017353057815485e-3'

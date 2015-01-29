@@ -1,5 +1,5 @@
-parents: []
-# - https://github.com/TalentSRS/cn-comprehensive
+parents:
+ - https://github.com/TalentSRS/cn-comprehensive
 hidden: true
 title: 'Peace Corps: China'
 tags:
@@ -13,46 +13,46 @@ image: US-Official-PeaceCorps-Logo.svg
 units:
  - title: 'Lesson 1: Introduction to Chinese Language'
    content: lesson01.md
-   stencils: lesson1.yaml
+   stencils: lesson01.md.yaml
  - title: 'Lesson 2: Phonetics'
    content: lesson02.md
-   stencils: lesson1.yaml
+   stencils: lesson02.md.yaml
  - title: 'Lesson 3: Basic Grammar'
    content: lesson03.md
-   stencils: lesson1.yaml
+   stencils: lesson03.md.yaml
  - title: 'Lesson 4: Greetings'
    content: lesson04.md
-   stencils: lesson1.yaml
+   stencils: lesson04.md.yaml
  - title: 'Lesson 5: Introductions'
    content: lesson05.md
-   stencils: lesson1.yaml
+   stencils: lesson05.md.yaml
  - title: 'Lesson 6: Numbers/Prices'
    content: lesson06.md
-   stencils: lesson1.yaml
+   stencils: lesson06.md.yaml
  - title: 'Lesson 7: Food & Drink'
    content: lesson07.md
-   stencils: lesson1.yaml
+   stencils: lesson07.md.yaml
  - title: 'Lesson 8: Some Chinese Dishes'
    content: lesson08.md
-   stencils: lesson1.yaml
+   stencils: lesson08.md.yaml
  - title: 'Lesson 9: Useful Phrases'
    content: lesson09.md
-   stencils: lesson1.yaml
+   stencils: lesson09.md.yaml
  - title: 'Lesson 10: Sickness and Emergency'
    content: lesson10.md
-   stencils: lesson1.yaml
+   stencils: lesson10.md.yaml
  - title: 'Lesson 11: Direction and Places'
    content: lesson11.md
-   stencils: lesson1.yaml
+   stencils: lesson11.md.yaml
  - title: 'Lesson 12: Clothes and Colors'
    content: lesson12.md
-   stencils: lesson1.yaml
+   stencils: lesson12.md.yaml
  - title: 'Lesson 13: Time'
    content: lesson13.md
-   stencils: lesson1.yaml
+   stencils: lesson13.md.yaml
  - title: 'Lesson 14: Family'
    content: lesson14.md
-   stencils: lesson1.yaml
+   stencils: lesson14.md.yaml
  - title: 'Lesson 15: Home Items'
    content: lesson15.md
-   stencils: lesson1.yaml
+   stencils: lesson15.md.yaml

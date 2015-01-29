@@ -1,0 +1,119 @@
+- chinese: 谢谢!
+  english:
+  - Thank you!
+  - Thanks!
+  type: chinese
+  comment: ! 'Covers: 谢谢. Cost: 0.0'
+- chinese: 两块钱
+  english:
+  - two yuan
+  type: chinese
+  comment: ! 'Covers: 两. Cost: 0.0'
+- chinese: 你有几块钱？
+  english:
+  - How much money do you have?
+  type: chinese
+  comment: ! 'Covers: 几. Cost: 0.0'
+- chinese: 他找你多少钱？
+  english:
+  - How much change did he give you?
+  type: chinese
+  comment: ! 'Covers: 多少. Cost: 0.0'
+- chinese: 你要买什么？
+  english:
+  - What do you want to buy?
+  type: chinese
+  comment: ! 'Covers: 买. Cost: 0.0'
+- chinese: 我要买这个。
+  english:
+  - I'll buy this.
+  type: chinese
+  comment: ! 'Covers: 这个. Cost: 0.0'
+- chinese: 那个叫什么？
+  english:
+  - What is that called?
+  type: chinese
+  comment: ! 'Covers: 那个. Cost: 0.0'
+- chinese: 哪个是我的？
+  english:
+  - Which is mine?
+  type: chinese
+  comment: ! 'Covers: 哪个. Cost: 1.99381399270623e-5'
+- chinese: 他是第一个来的。
+  english:
+  - He was the first to come.
+  type: chinese
+  comment: ! 'Covers: 第一. Cost: 1.8116893822320374e-4'
+- chinese: 美国有几亿人？
+  english:
+  - How many hundreds of millions of people are there in the USA?
+  type: chinese
+  comment: ! 'Covers: 亿. Cost: 2.7530765630592187e-3'
+- chinese: 咱们点两瓶吧。
+  english:
+  - Let's order two bottles.
+  type: chinese
+  comment: ! 'Covers: 瓶. Cost: 5.145885864251531e-3'
+- chinese: 我们处理第二个问题吧。
+  english:
+  - Let's take up the second problem, shall we?
+  type: chinese
+  comment: ! 'Covers: 第二. Cost: 5.162622612287042e-3'
+- chinese: 警惕性是万万不可放松的.
+  english:
+  - You cannot afford to relax your vigilance for a moment.
+  type: chinese
+  comment: ! 'Covers: 万万. Cost: 3.3333333333333335'
+- chinese: 五千元是很多钱。
+  english:
+  - 5,000 yuan is a lot of money.
+  type: chinese
+  comment: ! 'Covers: 元. Cost: 6.37706297987399e-4'
+- chinese: 我开支票提出一百万美元。
+  english:
+  - I checked out one million dollars.
+  type: chinese
+  comment: ! 'Covers: 百万. Cost: 2.6860059092130004e-2'
+- chinese: 完成这个工程花费了他们十亿多美元。
+  english:
+  - It took them more than one billion dollars to complete the project.
+  type: chinese
+  comment: ! 'Covers: 十亿. Cost: 0.10256410256410256'
+- chinese: 那辆车卖一万块钱。
+  english:
+  - That car sells for ten thousand dollars.
+  type: chinese
+  comment: ! 'Covers: 万. Cost: 5.419466724474312e-3'
+- chinese: 今天我不能喝酒，给我一瓶矿泉水吧！
+  english:
+  - I can't drink today, how about giving me a bottle of mineral water!
+  type: chinese
+  comment: ! 'Covers: 矿泉水. Cost: 1.4916467780429593e-2'
+- chinese: 他最多能拿到第三名。
+  english:
+  - At best he may take third place.
+  type: chinese
+  comment: ! 'Covers: 第. Cost: 3.3715441672285905e-3'
+- chinese: 一、二、三、四、五、六、七、八、九、十。
+  english:
+  - One, two, three, four, five, six, seven, eight, nine, ten.
+  type: chinese
+  comment: ! 'Covers: 一. Cost: 0.0'
+- chinese: 你千万不要和你父母说这件事。
+  english:
+  - You mustn't tell that to your parents.
+  type: chinese
+  comment: ! 'Covers: 千万. Cost: 6.602403274792024e-3'
+- chinese: 一百， 二百， 三百， 四百， 五百， 六百， 七百， 八百， 九百， 一千。
+  english:
+  - One hundred, two hundred, three hundred, four hundred, five hundred, six hundred,
+    seven hundred, eight hundred, nine hundred, one thousand.
+  type: chinese
+  comment: ! 'Covers: 百. Cost: 0.0'
+- chinese: 如果请费尔南德斯走路，教育局可以付钱马上终止合约，或是让他做满任期。费尔南德斯按规定可以在十九万五的年薪之外，还可以领未用病假和其他福利折合现金四十万元。
+  english:
+  - If Fernandez is shown the door, the board could either buy out his contract immediately
+    or allow him to serve out his term. Fernandez is set to collect$400, 000 in past
+    sick pay and other benefits on top of his$195, 000 salary.
+  type: chinese
+  comment: ! 'Covers: 十万. Cost: 8.333333333333334'

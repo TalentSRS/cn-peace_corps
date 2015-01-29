@@ -1,0 +1,81 @@
+- chinese: 叫警察。
+  english:
+  - Please call the police.
+  type: chinese
+  comment: ! 'Covers: 警察. Cost: 0.0'
+- chinese: 9点可以吗？
+  english:
+  - Would 9 o'clock be all right?
+  type: chinese
+  comment: ! 'Covers: 可以. Cost: 0.0'
+- chinese: 他们不累。
+  english:
+  - They are not tired.
+  type: chinese
+  comment: ! 'Covers: 累. Cost: 0.0'
+- chinese: 他喜欢睡觉。
+  english:
+  - He likes sleeping.
+  type: chinese
+  comment: ! 'Covers: 睡觉. Cost: 0.0'
+- chinese: 他在医院。
+  english:
+  - He is in hospital.
+  type: chinese
+  comment: ! 'Covers: 医院. Cost: 0.0'
+- chinese: 他在做什么？
+  english:
+  - What's he doing?
+  type: chinese
+  comment: ! 'Covers: 在. Cost: 0.0'
+- chinese: 他大叫：“救命！”
+  english:
+  - ! 'He cried: "Help!"'
+  type: chinese
+  comment: ! 'Covers: 救命. Cost: 0.0'
+- chinese: 他感冒了。
+  english:
+  - He caught a cold.
+  type: chinese
+  comment: ! 'Covers: 了. Cost: 0.0'
+- chinese: 他生病了。
+  english:
+  - He is ill.
+  - He is sick.
+  type: chinese
+  comment: ! 'Covers: 生病. Cost: 0.0'
+- chinese: 你想什么呢?
+  english:
+  - What's on your mind?
+  type: chinese
+  comment: ! 'Covers: 想. Cost: 0.0'
+- chinese: 你有|电话吗？
+  english:
+  - Do you have a phone?
+  type: chinese
+  comment: ! 'Covers: 电话. Cost: 0.0'
+- chinese: 我去到医院。
+  english:
+  - I went to the hospital.
+  type: chinese
+  comment: ! 'Covers: 到. Cost: 2.057388803278655e-4'
+- chinese: 我可以用洗手间吗?
+  english:
+  - May I use your bathroom?
+  type: chinese
+  comment: ! 'Covers: 洗手间. Cost: 0.0'
+- chinese: 你是在对我说吗？
+  english:
+  - Are you speaking to me?
+  type: chinese
+  comment: ! 'Covers: 对. Cost: 0.0'
+- chinese: 你对任何药物过敏吗？
+  english:
+  - Are you allergic to any medicine?
+  type: chinese
+  comment: ! 'Covers: 过敏. Cost: 2.7909572983533353e-2'
+- chinese: 我爱娜塔莎。
+  english:
+  - I love Natasha.
+  type: chinese
+  comment: ! 'Covers: 娜. Cost: 5.6369785794813984e-2'

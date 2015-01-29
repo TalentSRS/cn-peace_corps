@@ -1,0 +1,72 @@
+- chinese: 没关系。
+  english:
+  - No problem.
+  type: chinese
+  comment: ! 'Covers: 没关系. Cost: 0.0'
+- chinese: Elen不会说英语。
+  english:
+  - Ellen does not speak English.
+  type: chinese
+  comment: ! 'Covers: 英语. Cost: 0.0'
+- chinese: 他说一点英语。
+  english:
+  - He speaks English a little.
+  type: chinese
+  comment: ! 'Covers: 一点. Cost: 0.0'
+- chinese: 他不是美国人。
+  english:
+  - He is not an American.
+  - He isn't an American.
+  type: chinese
+  comment: ! 'Covers: 美国人. Cost: 0.0'
+- chinese: 你对不起我。
+  english:
+  - You do me wrong.
+  type: chinese
+  comment: ! 'Covers: 对不起. Cost: 0.0'
+- chinese: 对不起， 我听不懂你的汉语。
+  english:
+  - Sorry, I don’t understand your Chinese.
+  type: chinese
+  comment: ! 'Covers: 听不懂. Cost: 0.0'
+- chinese: 我没听懂他说的话。
+  english:
+  - I didn't catch what he said.
+  type: chinese
+  comment: ! 'Covers: 听懂. Cost: 3.0220610456331214e-2'
+- chinese: 我能叫你Bob吗？
+  english:
+  - Can I call you Bob?
+  type: chinese
+  comment: ! 'Covers: 能. Cost: 0.0'
+- chinese: 你可以再说一遍吗？
+  english:
+  - Could you repeat that?
+  - Can you say that again?
+  type: chinese
+  comment: ! 'Covers: 一遍. Cost: 4.23578048491215e-4'
+- chinese: 爱和和平。
+  english:
+  - Love and Peace.
+  type: chinese
+  comment: ! 'Covers: 和平. Cost: 1.07789981999073e-3'
+- chinese: 不谢，不谢。我怀孕了。
+  english:
+  - No thanks, I'm pregnant.
+  type: chinese
+  comment: ! 'Covers: 不谢. Cost: 1.5206812652068125e-2'
+- chinese: 好了，不要再说了。
+  english:
+  - Okay, let's say no more about it.
+  type: chinese
+  comment: ! 'Covers: 再说. Cost: 3.544577133720236e-5'
+- chinese: 他已经成为了棒球队员。
+  english:
+  - He has made the baseball team.
+  type: chinese
+  comment: ! 'Covers: 队员. Cost: 2.9248318221702253e-2'
+- chinese: 清问，你在做什么？
+  english:
+  - Excuse me, what are you doing?
+  type: chinese
+  comment: ! 'Covers: 清. Cost: 7.805761432513338e-5'
