@@ -33,7 +33,7 @@ units:
    content: lesson7.md
    stencils: lesson1.yaml
  - title: 'Lesson 8: Some Chinese Dishes'
-   content: lesson1.md
+   content: lesson8.md
    stencils: lesson1.yaml
  - title: 'Lesson 9: Useful Phrases'
    content: lesson1.md
