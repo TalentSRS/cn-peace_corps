@@ -6,7 +6,7 @@ Mandarin:
 
 I study Chinese. Wǒ xué hànyǔ。我学汉语。 (lit: I study Chinese)
 
-Let’s learn a few words first:
+**Let’s learn a few words first:**
 
     This               zhè       这
     that               nà        那
@@ -39,17 +39,17 @@ syntactically more complicated “transformational” processes such as movement
 the verb to the beginning of the sentence.
 
 
-    Is  this  tea?      Zhè shì chá ma?   这是茶马？
-    Yes./ No.           Shì / Bú  shì。   是/不是。
+    Is this tea?        Zhè shì chá ma?   这是茶马？
+    Yes/No.             Shì / Bú shì.     是/不是。
 
-    Is  that  rice?     Nà  shì fàn ma?   那是放马？
-    Yes.  /No.          Shì / Bú  shì。   是/不是。
+    Is that rice?       Nà  shì fàn ma?   那是放马？
+    Yes/No.             Shì / Bú shì.     是/不是。
 
-    Is  this  a cup?    Zhè shì bēizi ma? 这是杯子马？
-    Yes./No.            Shì / Bú  shì。   是/不是。
+    Is this a cup?      Zhè shì bēizi ma? 这是杯子马？
+    Yes/No.             Shì / Bú shì.     是/不是。
 
-    Is  that  an  egg?  Nà  shì jīdàn ma? 那是鸡蛋吗？
-    Yes.  /No.          Shì / Bú  shì。   是/不是。
+    Is that an egg?     Nà  shì jīdàn ma? 那是鸡蛋吗？
+    Yes/No.             Shì / Bú shì.     是/不是。
 
 
 Note: The word “bù” is the negative word. It precedes the verb to indicate that
