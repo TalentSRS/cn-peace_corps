@@ -27,7 +27,7 @@ units:
    content: lesson5.md
    stencils: lesson1.yaml
  - title: 'Lesson 6: Numbers/Prices'
-   content: lesson1.md
+   content: lesson6.md
    stencils: lesson1.yaml
  - title: 'Lesson 7: Food & Drink'
    content: lesson1.md
