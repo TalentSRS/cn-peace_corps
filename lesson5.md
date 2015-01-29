@@ -38,12 +38,26 @@ by the given name. Most surnames consist of a single character, though some have
 two. Given names may be either one or two characters. Depending on social
 circumstances, individuals identify themselves either
 
-> (1) by surname only: Wǒ xìng Zhāng
+> (1) by surname only: Wǒ xìng Zhāng 我姓张
 
 or
 
-> (2) by full name: Wǒ jiào Zhāng Wěi, or Wǒ shì Zhāng Wěi.
+> (2) by full name: Wǒ jiào Zhāng Wěi 我叫姓张, or Wǒ shì Zhāng Wěi 我是姓张.
 
 
+**The personal pronouns**
 
+    I/me        wǒ       我
+    You         nǐ       你
+    He/him      tā       他
+    She/her     tā       她
+    It          tā       它
+    We/us       wǒmen    我们
+    You (pl.)   nǐmen    你们
+    They/them   tāmen    他们
 
+Note: Chinese personal pronouns are very simple. There is no distinction for
+case. Wǒ 我 is wǒ 我 regardless of whether it is the subject of the sentence or the
+object of the verb, and the same is true for the second and third person
+pronouns. Nor is there a distinction for gender. Tā 他 is tā 她, whether it refers to
+a woman or a man.
