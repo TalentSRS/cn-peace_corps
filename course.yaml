@@ -12,31 +12,31 @@ description: |
 image: US-Official-PeaceCorps-Logo.svg
 units:
  - title: 'Lesson 1: Introduction to Chinese Language'
-   content: lesson1.md
+   content: lesson01.md
    stencils: lesson1.yaml
  - title: 'Lesson 2: Phonetics'
-   content: lesson2.md
+   content: lesson02.md
    stencils: lesson1.yaml
  - title: 'Lesson 3: Basic Grammar'
-   content: lesson3.md
+   content: lesson03.md
    stencils: lesson1.yaml
  - title: 'Lesson 4: Greetings'
-   content: lesson4.md
+   content: lesson04.md
    stencils: lesson1.yaml
  - title: 'Lesson 5: Introductions'
-   content: lesson5.md
+   content: lesson05.md
    stencils: lesson1.yaml
  - title: 'Lesson 6: Numbers/Prices'
-   content: lesson6.md
+   content: lesson06.md
    stencils: lesson1.yaml
  - title: 'Lesson 7: Food & Drink'
-   content: lesson7.md
+   content: lesson07.md
    stencils: lesson1.yaml
  - title: 'Lesson 8: Some Chinese Dishes'
-   content: lesson8.md
+   content: lesson08.md
    stencils: lesson1.yaml
  - title: 'Lesson 9: Useful Phrases'
-   content: lesson9.md
+   content: lesson09.md
    stencils: lesson1.yaml
  - title: 'Lesson 10: Sickness and Emergency'
    content: lesson10.md
