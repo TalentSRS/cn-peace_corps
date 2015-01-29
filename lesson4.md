@@ -25,7 +25,7 @@ Audio version available here:
 
 Note: Nǐ hăo. This is a common, slightly formal, greeting. Literally it would
 translate as “You are good,” or if conceived of as a question, “Are you fine?”
-However, it is not really a question. The response is usually simply Nǐ hăo
+However, it is not really a question. The response is usually simply Nǐ hăo 你好
 again. Other common greetings used among friends or acquaintances are:
 
 **Dialogue 2**
