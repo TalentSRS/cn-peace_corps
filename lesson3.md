@@ -1,3 +1,6 @@
+Audio version available here:
+<http://files.peacecorps.gov/uploads/wws/audio/CN_Mandarin_Lesson_3.mp3>
+
 Mandarin grammar is relatively straightforward. There are no verb conjugations,
 no plurals, no articles (a/an/the), and no gender or tenses. At an elementary
 level, sentence order is similar to that of English: subject-verb-object. For
