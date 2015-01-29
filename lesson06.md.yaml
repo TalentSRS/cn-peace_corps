@@ -59,11 +59,6 @@
   - Let's take up the second problem, shall we?
   type: chinese
   comment: ! 'Covers: 第二. Cost: 5.162622612287042e-3'
-- chinese: 警惕性是万万不可放松的.
-  english:
-  - You cannot afford to relax your vigilance for a moment.
-  type: chinese
-  comment: ! 'Covers: 万万. Cost: 3.3333333333333335'
 - chinese: 五千元是很多钱。
   english:
   - 5,000 yuan is a lot of money.
@@ -74,16 +69,16 @@
   - I checked out one million dollars.
   type: chinese
   comment: ! 'Covers: 百万. Cost: 2.6860059092130004e-2'
-- chinese: 完成这个工程花费了他们十亿多美元。
-  english:
-  - It took them more than one billion dollars to complete the project.
-  type: chinese
-  comment: ! 'Covers: 十亿. Cost: 0.10256410256410256'
 - chinese: 那辆车卖一万块钱。
   english:
   - That car sells for ten thousand dollars.
   type: chinese
   comment: ! 'Covers: 万. Cost: 5.419466724474312e-3'
+- chinese: 完成这个工程花费了他们十亿多美元。
+  english:
+  - It took them more than one billion dollars to complete the project.
+  type: chinese
+  comment: ! 'Covers: 十亿. Cost: 0.10256410256410256'
 - chinese: 今天我不能喝酒，给我一瓶矿泉水吧！
   english:
   - I can't drink today, how about giving me a bottle of mineral water!
@@ -110,10 +105,3 @@
     seven hundred, eight hundred, nine hundred, one thousand.
   type: chinese
   comment: ! 'Covers: 百. Cost: 0.0'
-- chinese: 如果请费尔南德斯走路，教育局可以付钱马上终止合约，或是让他做满任期。费尔南德斯按规定可以在十九万五的年薪之外，还可以领未用病假和其他福利折合现金四十万元。
-  english:
-  - If Fernandez is shown the door, the board could either buy out his contract immediately
-    or allow him to serve out his term. Fernandez is set to collect$400, 000 in past
-    sick pay and other benefits on top of his$195, 000 salary.
-  type: chinese
-  comment: ! 'Covers: 十万. Cost: 8.333333333333334'

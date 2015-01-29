@@ -194,11 +194,6 @@
   - She advised him to drink more milk.
   type: chinese
   comment: ! 'Covers: 奶. Cost: 8.784258608573436e-3'
-- chinese: 秋天时叶子变黄。
-  english:
-  - The leaves turn yellow in autumn.
-  type: chinese
-  comment: ! 'Covers: 黄. Cost: 0.2770083102493075'
 - chinese: 那就这样，一个月1500。
   english:
   - ! 'Then how about this: 1500 a month.'
@@ -234,11 +229,6 @@
   - At the end of the party, we thanked our host and went away.
   type: chinese
   comment: ! 'Covers: 谢. Cost: 5.608524957936063e-2'
-- chinese: 寒冷干燥，灿烂的阳光，多么美丽的冬日天气!
-  english:
-  - Cold and dry, splendid sunshine, what beautiful winter weather!
-  type: chinese
-  comment: ! 'Covers: 冬. Cost: 0.29154518950437314'
 - chinese: QA团队发现了一个重大bug，因此，建议重新审查所有工作。
   english:
   - QA team has discovered a serious bug. In consequence, it is recommended that all

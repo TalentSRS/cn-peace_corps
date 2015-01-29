@@ -161,8 +161,3 @@
   - Ten minutes later, our car ran out of gas.
   type: chinese
   comment: ! 'Covers: 油. Cost: 3.041640052316209e-3'
-- chinese: 我们在上个冰冻期之後把管道用保温材料裹上了。
-  english:
-  - After the last freeze-up we put insulation round the pipes.
-  type: chinese
-  comment: ! 'Covers: 冰冻. Cost: 2.2222222222222223'

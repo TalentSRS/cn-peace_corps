@@ -134,11 +134,6 @@
   - December is the last month of the year.
   type: chinese
   comment: ! 'Covers: 十二月. Cost: 2.2070183182520413e-3'
-- chinese: 一月是一年之中的头一个月。
-  english:
-  - January is the first month of the year.
-  type: chinese
-  comment: ! 'Covers: 一月. Cost: 1.0'
 - chinese: 我是在一九六二年三月二十二日出生的。
   english:
   - I was born on March 22, 1962.
