@@ -36,10 +36,10 @@ units:
    content: lesson8.md
    stencils: lesson1.yaml
  - title: 'Lesson 9: Useful Phrases'
-   content: lesson1.md
+   content: lesson9.md
    stencils: lesson1.yaml
  - title: 'Lesson 10: Sickness and Emergency'
-   content: lesson1.md
+   content: lesson10.md
    stencils: lesson1.yaml
  - title: 'Lesson 11: Direction and Places'
    content: lesson1.md
