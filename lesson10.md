@@ -17,7 +17,7 @@ Audio version available here:
     Help!                           Jiù mìng!                      救命！
     Police!                         Jǐngchá!                       警察！
     May I use your telephone?       Wǒ kěyǐ yòng nǐde diànhuà ma?  我可以用你的电话马？
-    I need to call the police 110.  Wǒ yào dă yāo-yāo-líng。       
+    I need to call the police 110.  Wǒ yào dă yāo-yāo-líng。       我要打一一零。
 
-(yāo is an alternate pronunciation for the number one, used because yī is easily
-confused with qī, especially on the telephone)
+(yāo 一 is an alternate pronunciation for the number one, used because yī 一 is easily
+confused with qī 七, especially on the telephone)
