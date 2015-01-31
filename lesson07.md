@@ -10,7 +10,7 @@ Audio version available here:
     vegetable      shūcài          蔬菜
     pork           zhūròu          猪肉
     beef           niúròu          牛肉
-    fish           yú              与
+    fish           yú              鱼
     water          shuǐ            水
     mineral water  kuàngquănshuǐ   矿泉水
     coffee         kāfēi           咖啡
@@ -34,13 +34,13 @@ Audio version available here:
 
 **Phrases & Sentences**
 
-    I’d like to have noodles.     Wǒ yào miàntiáo.      我要面条。
-    I don’t want noodles.         Wǒ búyào miàntiáo.    我不要面条。
-    Do you have… or not?          Yǒu méiyǒu…?          有没有...？
-    Don't make it too hot.        Búyào tài là.         不要太辣。
-    I like dumplings.             Wǒ xǐhuān jiăozi.     我喜欢饺子。
-    I don’t like rice.            Wǒ bùxǐhuān mǐfàn.    我不喜欢米饭。
-    Can I have the bill, please?  Măidān/Suànzhàng.     买单/算账。
+    I’d like to have noodles.       Wǒ yào miàntiáo.      我要面条。
+    I don’t want noodles.           Wǒ búyào miàntiáo.    我不要面条。
+    Do you have… or not?            Yǒu méiyǒu…?          有没有...？
+    Don't make it too hot (spicy).  Búyào tài là.         不要太辣。
+    I like dumplings.               Wǒ xǐhuān jiăozi.     我喜欢饺子。
+    I don’t like rice.              Wǒ bùxǐhuān mǐfàn.    我不喜欢米饭。
+    Can I have the bill, please?    Măidān/Suànzhàng.     买单/算账。
 
 Please try to use the vocabulary above to substitute these sentences.
 
