@@ -9,13 +9,13 @@ Audio version available here:
     Thursday       Xīngqī sì         星期四
     Friday         Xīngqī wǔ         星期五
     Saturday       Xīngqī liù        星期六
-    Sunday         Xīngqī tiān       星期天
+    Sunday         Xīngqī tiān       星期天 星期日
     Weekend        Zhōumò            周末
     Months         Yuè               月
     January        yī yuè            一月
     February       èr yuè            二月
     March          sān yuè           三月
-    April          sì yuè            十月
+    April          sì yuè            四月
     May            wǔ yuè            五月
     June           liù yuè           六月
     July           qī yuè            七月
@@ -36,7 +36,7 @@ Audio version available here:
 ## Useful phrases
 
     What time is it?             Jǐ diăn le?           几点了？
-    It is 10:00.00               Jiǔ diăn shí fēn.     九点十分。
+    It is 9:10                   Jiǔ diăn shí fēn.     九点十分。
     What day is it?              Jīntiān xīngqī jǐ?    今天星期几？
     Today is Monday.             Jīntiān xīngqī yī.    今天星期一。
     What is the date of today?   Jīntiān jǐhào?        今天几号？
