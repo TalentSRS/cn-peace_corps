@@ -1,1 +1,100 @@
-[]
+- chinese: 我会吃橘子。
+  english:
+  - I will eat the orange.
+  type: chinese
+  comment: ! 'Covers: 橘子. Cost: 1.2017353057815485e-3'
+- chinese: 我很喜欢吃西瓜。
+  english:
+  - I like to eat watermelon.
+  type: chinese
+  comment: ! 'Covers: 西瓜. Cost: 1.2017353057815485e-3'
+- chinese: 我一点也不要香蕉。
+  english:
+  - I do not want any bananas at all.
+  type: chinese
+  comment: ! 'Covers: 香蕉. Cost: 1.649130908011478e-3'
+- chinese: 你要多少个苹果？
+  english:
+  - How many apples do you want?
+  type: chinese
+  comment: ! 'Covers: 苹果. Cost: 0.0'
+- chinese: 我喜欢吃水果，比如苹果、梨子、香蕉等等。
+  english:
+  - I like fruits, such as apples, pears, bananas...
+  type: chinese
+  comment: ! 'Covers: 梨子. Cost: 5.6753688989784334e-2'
+- chinese: 你的蛋要怎么做?
+  english:
+  - How do you like your eggs done?
+  type: chinese
+  comment: ! 'Covers: 蛋. Cost: 3.7622555474458046e-4'
+- chinese: 这只苹果非常红。
+  english:
+  - This apple is very red.
+  type: chinese
+  comment: ! 'Covers: 红. Cost: 1.2435645534359689e-3'
+- chinese: 如果没有白的，黑的也可以。
+  english:
+  - If there aren't any white ones, black ones are also fine.
+  type: chinese
+  comment: ! 'Covers: 白. Cost: 7.351860020585207e-3'
+- chinese: 你想拿多少桃子就拿多少。
+  english:
+  - Take as many peaches as you like.
+  type: chinese
+  comment: ! 'Covers: 桃子. Cost: 1.036634669209877e-3'
+- chinese: 他们，牛肉面做得特别好。
+  english:
+  - They make beef noodles especially well.
+  type: chinese
+  comment: ! 'Covers: 牛肉面. Cost: 4.704332690407866e-3'
+- chinese: 我们没有牛肉面；排骨面行不行？
+  english:
+  - We don't have been noodles; are fried pork noodles OK?
+  type: chinese
+  comment: ! 'Covers: 排骨. Cost: 6.225099601593626e-3'
+- chinese: 我没有跟他见过面。
+  english:
+  - I haven't met him.
+  type: chinese
+  comment: ! 'Covers: 面. Cost: 1.143327540473795e-3'
+- chinese: 我吃了炒饭，也喝了啤酒。
+  english:
+  - I ate fried rice and drank some beer.
+  type: chinese
+  comment: ! 'Covers: 炒饭. Cost: 2.395496466642712e-3'
+- chinese: 他在他的花园种番茄。
+  english:
+  - He grows tomatoes in his garden.
+  type: chinese
+  comment: ! 'Covers: 番茄. Cost: 4.508566275924256e-2'
+- chinese: 在杂树林里有只老鼠。
+  english:
+  - There is a mouse in that copse.
+  type: chinese
+  comment: ! 'Covers: 杂. Cost: 5.341880341880342e-2'
+- chinese: 你想再来些酱汁吗？
+  english:
+  - Would you like some more gravy?
+  type: chinese
+  comment: ! 'Covers: 酱. Cost: 5.6657223796034e-2'
+- chinese: 上面的草莓大，下面的草莓比较小。
+  english:
+  - The upper strawberries are big, the lower strawberries are smaller.
+  type: chinese
+  comment: ! 'Covers: 草莓. Cost: 9.901970492127933e-3'
+- chinese: 我还带来了一些自己做的粥，弄热一下就可以吃了。
+  english:
+  - I also brought some gruel I made. It just needs warming up.
+  type: chinese
+  comment: ! 'Covers: 粥. Cost: 7.4682598954443615e-3'
+- chinese: 不怕虎一样的敌人，就怕猪一样的队友。
+  english:
+  - Don't be afraid of having tigers for enemies; be afraid of having pigs for friends.
+  type: chinese
+  comment: ! 'Covers: 虎. Cost: 0.11001100110011001'
+- chinese: 他皮笑肉不笑地和我打了招呼.
+  english:
+  - He greeted me with a greasy smile.
+  type: chinese
+  comment: ! 'Covers: 皮. Cost: 3.852080123266564e-2'

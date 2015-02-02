@@ -1,1 +1,75 @@
-[]
+- chinese: 我喜欢蓝色。
+  english:
+  - I like blue.
+  type: chinese
+  comment: ! 'Covers: 蓝色. Cost: 0.0'
+- chinese: 这些叫鞋。
+  english:
+  - These are called shoes.
+  type: chinese
+  comment: ! 'Covers: 鞋. Cost: 9.132003104881056e-4'
+- chinese: 那是我的裤子。
+  english:
+  - Those are my trousers.
+  type: chinese
+  comment: ! 'Covers: 裤子. Cost: 0.0'
+- chinese: 我的马是白色的。
+  english:
+  - My horse is white.
+  type: chinese
+  comment: ! 'Covers: 白色. Cost: 0.0'
+- chinese: 它不是黑色的吗？
+  english:
+  - Isn't it black?
+  type: chinese
+  comment: ! 'Covers: 黑色. Cost: 0.0'
+- chinese: 我不喜欢那件夹克。
+  english:
+  - I don't like this jacket.
+  type: chinese
+  comment: ! 'Covers: 夹克. Cost: 1.7143542884572528e-3'
+- chinese: 她喜欢这件新裙子。
+  english:
+  - She liked the new dress.
+  type: chinese
+  comment: ! 'Covers: 裙子. Cost: 1.9401276604000546e-3'
+- chinese: 她穿着深褐色的鞋子。
+  english:
+  - She was wearing dark brown shoes.
+  type: chinese
+  comment: ! 'Covers: 褐色. Cost: 4.551661356395084e-2'
+- chinese: 那栋灰色的大楼吗？
+  english:
+  - That gray building?
+  type: chinese
+  comment: ! 'Covers: 灰色. Cost: 3.115264797507788e-2'
+- chinese: 这衬衫要十元。
+  english:
+  - This shirt costs ten dollars.
+  type: chinese
+  comment: ! 'Covers: 衬衫. Cost: 0.0'
+- chinese: 请给我看看这件绿色的衬衫。
+  english:
+  - Please show me the green shirt.
+  type: chinese
+  comment: ! 'Covers: 绿色. Cost: 1.7143542884572528e-3'
+- chinese: 请把你的外套挂起来。
+  english:
+  - Hang up your coat, please.
+  type: chinese
+  comment: ! 'Covers: 外套. Cost: 9.67866821525358e-3'
+- chinese: 红色和蓝色，你喜欢那一个?
+  english:
+  - Red and blue - which one do you like?
+  type: chinese
+  comment: ! 'Covers: 红色. Cost: 0.0'
+- chinese: 她提　一个棕色的纸包，里面是书。
+  english:
+  - She was carrying a parcel of books done up in brown paper.
+  type: chinese
+  comment: ! 'Covers: 棕色. Cost: 2.355712603062426e-2'
+- chinese: 我种了很多花，有些是红色的，有些是黄色的。
+  english:
+  - I have a lot of flowers. Some are red and some are yellow.
+  type: chinese
+  comment: ! 'Covers: 黄色. Cost: 3.7738697260170577e-3'

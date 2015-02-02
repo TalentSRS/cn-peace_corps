@@ -40,11 +40,11 @@
   - It's very big.
   type: chinese
   comment: ! 'Covers: 它. Cost: 1.672442166949867e-4'
-- chinese: 请问这是谁？
+- chinese: 请问，你在做什么？
   english:
-  - Who is this, please?
+  - Excuse me, what are you doing?
   type: chinese
-  comment: ! 'Covers: 请问. Cost: 6.355299366376653e-4'
+  comment: ! 'Covers: 请问. Cost: 7.805761432513338e-5'
 - chinese: 谁是张先生？
   english:
   - Who is Mr. Zhang?

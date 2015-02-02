@@ -23,9 +23,9 @@
   - He is in hospital.
   type: chinese
   comment: ! 'Covers: 医院. Cost: 0.0'
-- chinese: 他在做什么？
+- chinese: 他在买苹果
   english:
-  - What's he doing?
+  - He's buying apples.
   type: chinese
   comment: ! 'Covers: 在. Cost: 0.0'
 - chinese: 他大叫：“救命！”
@@ -44,16 +44,6 @@
   - He is sick.
   type: chinese
   comment: ! 'Covers: 生病. Cost: 0.0'
-- chinese: 你想什么呢?
-  english:
-  - What's on your mind?
-  type: chinese
-  comment: ! 'Covers: 想. Cost: 0.0'
-- chinese: 你有|电话吗？
-  english:
-  - Do you have a phone?
-  type: chinese
-  comment: ! 'Covers: 电话. Cost: 0.0'
 - chinese: 我去到医院。
   english:
   - I went to the hospital.
@@ -64,6 +54,21 @@
   - May I use your bathroom?
   type: chinese
   comment: ! 'Covers: 洗手间. Cost: 0.0'
+- chinese: 打我吧。
+  english:
+  - Hit me.
+  type: chinese
+  comment: ! 'Covers: 打. Cost: 1.7284531036103928e-4'
+- chinese: 零在一前面。
+  english:
+  - Zero comes before one.
+  type: chinese
+  comment: ! 'Covers: 零. Cost: 1.55448468832582e-2'
+- chinese: 你想什么呢?
+  english:
+  - What's on your mind?
+  type: chinese
+  comment: ! 'Covers: 想. Cost: 0.0'
 - chinese: 你是在对我说吗？
   english:
   - Are you speaking to me?
@@ -74,6 +79,12 @@
   - Are you allergic to any medicine?
   type: chinese
   comment: ! 'Covers: 过敏. Cost: 2.7909572983533353e-2'
+- chinese: 有你的电话。
+  english:
+  - You are wanted on the phone.
+  - There is a call for you.
+  type: chinese
+  comment: ! 'Covers: 电话. Cost: 0.0'
 - chinese: 我爱娜塔莎。
   english:
   - I love Natasha.

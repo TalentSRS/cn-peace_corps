@@ -1,1 +1,106 @@
-[]
+- chinese: 房间没有桌子.
+  english:
+  - There are no tables in the room.
+  type: chinese
+  comment: ! 'Covers: 桌子. Cost: 0.0'
+- chinese: 没有椅子坐。
+  english:
+  - There's no chair to sit upon.
+  type: chinese
+  comment: ! 'Covers: 椅子. Cost: 0.0'
+- chinese: 没有任何肥皂。
+  english:
+  - There isn't any soap.
+  type: chinese
+  comment: ! 'Covers: 肥皂. Cost: 2.24870699347875e-3'
+- chinese: 洗手间有卫生纸。
+  english:
+  - There's toilet paper in the restroom.
+  type: chinese
+  comment: ! 'Covers: 卫生纸. Cost: 0.0'
+- chinese: 只有一条浴巾。
+  english:
+  - There is only one bath towel.
+  type: chinese
+  comment: ! 'Covers: 浴巾. Cost: 4.850601474582848e-3'
+- chinese: 少一把叉子。
+  english:
+  - There is a fork missing.
+  type: chinese
+  comment: ! 'Covers: 叉子. Cost: 6.3000063000063005e-3'
+- chinese: Ken昨天在家吗？
+  english:
+  - Was Ken at home yesterday?
+  type: chinese
+  comment: ! 'Covers: 家. Cost: 0.0'
+- chinese: 床单在床上。
+  english:
+  - The sheet is on the bed.
+  type: chinese
+  comment: ! 'Covers: 床单. Cost: 2.933127623316018e-4'
+- chinese: 你会用筷子吗？
+  english:
+  - Do you know how to use chopsticks ?
+  type: chinese
+  comment: ! 'Covers: 筷子. Cost: 0.0'
+- chinese: 你是个厕所！
+  english:
+  - You are a toilet!
+  type: chinese
+  comment: ! 'Covers: 厕所. Cost: 0.0'
+- chinese: Tom开了一个窗户。
+  english:
+  - Tom opened a window.
+  type: chinese
+  comment: ! 'Covers: 窗户. Cost: 1.2251298637655592e-3'
+- chinese: 请不要开窗。
+  english:
+  - Please do not open the windows.
+  type: chinese
+  comment: ! 'Covers: 窗. Cost: 1.2251298637655592e-3'
+- chinese: 他关了门。
+  english:
+  - He closed the door.
+  - He shut the door.
+  type: chinese
+  comment: ! 'Covers: 门. Cost: 0.0'
+- chinese: 我喜欢你的房间。
+  english:
+  - I like your room.
+  type: chinese
+  comment: ! 'Covers: 房间. Cost: 0.0'
+- chinese: 母亲让我打扫卫生间。
+  english:
+  - Mother made me clean the bathroom.
+  type: chinese
+  comment: ! 'Covers: 卫生间. Cost: 4.508566275924256e-2'
+- chinese: 他用一把刀子将苹果切开。
+  english:
+  - He cleaved an apple with a knife.
+  type: chinese
+  comment: ! 'Covers: 刀子. Cost: 1.987281399046105e-2'
+- chinese: 那不是刀。这个才是！
+  english:
+  - That's not a knife. THIS is a knife.
+  type: chinese
+  comment: ! 'Covers: 刀. Cost: 9.136759008844383e-4'
+- chinese: 请把那条毛巾给我扔过来.
+  english:
+  - Please throw me that towel.
+  type: chinese
+  comment: ! 'Covers: 毛巾. Cost: 8.093234056328908e-3'
+- chinese: 你能不能给我们一个汤匙？
+  english:
+  - Could you give us a spoon?
+  type: chinese
+  comment: ! 'Covers: 汤匙. Cost: 3.7195462153617256e-3'
+- chinese: 请把枕头和毯子拿给我。
+  english:
+  - Please take the pillow and blanket and give them to me.
+  type: chinese
+  comment: ! 'Covers: 毯子. Cost: 1.096358991788271e-3'
+- chinese: 汽车在宾馆外面[旅馆前面]停了下来。
+  english:
+  - The car pulled up outside the guesthouse [in front of the hotel].
+  type: chinese
+  comment: ! 'Covers: 宾馆. Cost: 1.9481784531463084e-2'

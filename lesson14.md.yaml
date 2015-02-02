@@ -1,1 +1,93 @@
-[]
+- chinese: 我们是男人。
+  english:
+  - We are men.
+  type: chinese
+  comment: ! 'Covers: 男人. Cost: 0.0'
+- chinese: 他是 Taro 的弟弟。
+  english:
+  - He's Taro's younger brother.
+  type: chinese
+  comment: ! 'Covers: 弟弟. Cost: 0.0'
+- chinese: Luke，我是你的儿子。
+  english:
+  - Luke, I am your son.
+  type: chinese
+  comment: ! 'Covers: 儿子. Cost: 0.0'
+- chinese: Luke，我是你的爸爸。
+  english:
+  - Luke, I am your father.
+  type: chinese
+  comment: ! 'Covers: 爸爸. Cost: 0.0'
+- chinese: 他是我哥哥，不是我爸爸。
+  english:
+  - He is my brother, not my father.
+  type: chinese
+  comment: ! 'Covers: 哥哥. Cost: 0.0'
+- chinese: 他是个大男孩。
+  english:
+  - He's a big boy.
+  type: chinese
+  comment: ! 'Covers: 男孩. Cost: 0.0'
+- chinese: 他是由他奶奶带大的。
+  english:
+  - He was brought up by his grandmother.
+  type: chinese
+  comment: ! 'Covers: 奶奶. Cost: 5.785028346638898e-3'
+- chinese: 他有三个姐姐。
+  english:
+  - He has three elder sisters.
+  - He has three older sisters.
+  type: chinese
+  comment: ! 'Covers: 姐姐. Cost: 0.0'
+- chinese: 你有没有妹妹吗？
+  english:
+  - Have you got a little sister?
+  type: chinese
+  comment: ! 'Covers: 妹妹. Cost: 0.0'
+- chinese: 那个男孩儿很聪明.
+  english:
+  - That boy has good brains.
+  - That boy is smart.
+  - That boy is intelligent.
+  type: chinese
+  comment: ! 'Covers: 男孩儿. Cost: 7.598206823189726e-3'
+- chinese: 他问了我的妈妈。
+  english:
+  - He asked my mother.
+  type: chinese
+  comment: ! 'Covers: 妈妈. Cost: 0.0'
+- chinese: 女人在说什么？
+  english:
+  - What is the woman saying?
+  type: chinese
+  comment: ! 'Covers: 女人. Cost: 0.0'
+- chinese: 这是昨天来的那个女孩。
+  english:
+  - This is the girl that came yesterday.
+  type: chinese
+  comment: ! 'Covers: 女孩. Cost: 1.8116893822320374e-4'
+- chinese: 这三个漂亮的女孩都是我的侄女。
+  english:
+  - These three pretty girls are all nieces of mine.
+  type: chinese
+  comment: ! 'Covers: 侄女. Cost: 3.040807638508788e-3'
+- chinese: 我侄子对鸡蛋过敏。
+  english:
+  - My nephew is allergic to eggs.
+  type: chinese
+  comment: ! 'Covers: 侄子. Cost: 0.0'
+- chinese: 爷爷买给我的！
+  english:
+  - Grandpa bought it for me!
+  type: chinese
+  comment: ! 'Covers: 爷爷. Cost: 2.861549643593992e-4'
+- chinese: 他们有两个儿子和一个女儿。
+  english:
+  - They have two sons and one daughter.
+  type: chinese
+  comment: ! 'Covers: 女儿. Cost: 0.0'
+- chinese: 坐过去点，让你外婆坐下来。
+  english:
+  - Move over and let your grandmother sit down.
+  type: chinese
+  comment: ! 'Covers: 外婆. Cost: 1.2080212611741966e-2'

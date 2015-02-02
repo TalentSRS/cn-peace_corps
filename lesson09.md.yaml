@@ -34,6 +34,11 @@
   - I didn't catch what he said.
   type: chinese
   comment: ! 'Covers: 听懂. Cost: 3.0220610456331214e-2'
+- chinese: 这是马。
+  english:
+  - This is a horse.
+  type: chinese
+  comment: ! 'Covers: 马. Cost: 0.0'
 - chinese: 我能叫你Bob吗？
   english:
   - Can I call you Bob?
@@ -65,8 +70,8 @@
   - He has made the baseball team.
   type: chinese
   comment: ! 'Covers: 队员. Cost: 2.9248318221702253e-2'
-- chinese: 清问，你在做什么？
+- chinese: 她把她的意思解释得清清楚楚。
   english:
-  - Excuse me, what are you doing?
+  - She made her meaning crystal clear.
   type: chinese
-  comment: ! 'Covers: 清. Cost: 7.805761432513338e-5'
+  comment: ! 'Covers: 清. Cost: 0.16051364365971107'

@@ -14,6 +14,11 @@
   - Today is Saturday.
   type: chinese
   comment: ! 'Covers: 星期六. Cost: 0.0'
+- chinese: 今天是星期日。
+  english:
+  - This day is Sunday.
+  type: chinese
+  comment: ! 'Covers: 星期日. Cost: 0.0'
 - chinese: 明天是星期天。
   english:
   - It is Sunday tomorrow.
@@ -94,11 +99,6 @@
   - My daughter is to get married in June.
   type: chinese
   comment: ! 'Covers: 六月. Cost: 5.13347022587269e-3'
-- chinese: 这钱你和我分了吧。
-  english:
-  - Let's divide this money between you and me.
-  type: chinese
-  comment: ! 'Covers: 分. Cost: 1.7284531036103928e-4'
 - chinese: 我学英语学了4年了。
   english:
   - I have been studying English for four years.
@@ -119,6 +119,11 @@
   - It's very cold here in February.
   type: chinese
   comment: ! 'Covers: 二月. Cost: 1.43184421534937e-2'
+- chinese: 你们分了这三个苹果吧。
+  english:
+  - Divide these apples between you three.
+  type: chinese
+  comment: ! 'Covers: 分. Cost: 1.7284531036103928e-4'
 - chinese: 他去年八月回来的。
   english:
   - He came back last August.
@@ -143,4 +148,9 @@
   english:
   - Tom was born on May 5, 2010.
   type: chinese
-  comment: ! 'Covers: 五月. Cost: 5.7937427578215524e-2'
+  comment: ! 'Covers: 五月. Cost: 1.9135093761959435e-2'
+- chinese: 请在四月底之前交上你的学期报告。
+  english:
+  - You should turn in your term papers by the end of April.
+  type: chinese
+  comment: ! 'Covers: 四月. Cost: 9.425070688030161e-2'

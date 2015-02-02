@@ -4,21 +4,6 @@
   - Thanks!
   type: chinese
   comment: ! 'Covers: 谢谢. Cost: 0.0'
-- chinese: 两块钱
-  english:
-  - two yuan
-  type: chinese
-  comment: ! 'Covers: 两. Cost: 0.0'
-- chinese: 你有几块钱？
-  english:
-  - How much money do you have?
-  type: chinese
-  comment: ! 'Covers: 几. Cost: 0.0'
-- chinese: 他找你多少钱？
-  english:
-  - How much change did he give you?
-  type: chinese
-  comment: ! 'Covers: 多少. Cost: 0.0'
 - chinese: 你要买什么？
   english:
   - What do you want to buy?
@@ -29,11 +14,6 @@
   - I'll buy this.
   type: chinese
   comment: ! 'Covers: 这个. Cost: 0.0'
-- chinese: 那个叫什么？
-  english:
-  - What is that called?
-  type: chinese
-  comment: ! 'Covers: 那个. Cost: 0.0'
 - chinese: 哪个是我的？
   english:
   - Which is mine?
@@ -44,6 +24,21 @@
   - He was the first to come.
   type: chinese
   comment: ! 'Covers: 第一. Cost: 1.8116893822320374e-4'
+- chinese: 他找你多少钱？
+  english:
+  - How much change did he give you?
+  type: chinese
+  comment: ! 'Covers: 多少. Cost: 0.0'
+- chinese: 你有几块钱？
+  english:
+  - How much money do you have?
+  type: chinese
+  comment: ! 'Covers: 块. Cost: 0.0'
+- chinese: 我们有两个孩子。
+  english:
+  - We have two children.
+  type: chinese
+  comment: ! 'Covers: 两. Cost: 9.007467190300758e-4'
 - chinese: 美国有几亿人？
   english:
   - How many hundreds of millions of people are there in the USA?
@@ -59,6 +54,11 @@
   - Let's take up the second problem, shall we?
   type: chinese
   comment: ! 'Covers: 第二. Cost: 5.162622612287042e-3'
+- chinese: 我能看那个吗？
+  english:
+  - Can I see that one?
+  type: chinese
+  comment: ! 'Covers: 那个. Cost: 3.271362817035949e-4'
 - chinese: 五千元是很多钱。
   english:
   - 5,000 yuan is a lot of money.

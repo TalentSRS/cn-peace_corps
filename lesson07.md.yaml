@@ -14,6 +14,12 @@
   - No, I don't have it.
   type: chinese
   comment: ! 'Covers: 没有. Cost: 0.0'
+- chinese: 没有水。
+  english:
+  - There is no water.
+  - There's no water.
+  type: chinese
+  comment: ! 'Covers: 水. Cost: 0.0'
 - chinese: 没有盐。
   english:
   - There's no salt.
@@ -29,11 +35,11 @@
   - I want beef, too.
   type: chinese
   comment: ! 'Covers: 牛肉. Cost: 2.545241670696633e-4'
-- chinese: 不算什么
+- chinese: 你们有没有米饭？
   english:
-  - It means nothing to me.
+  - Do you have rice?
   type: chinese
-  comment: ! 'Covers: 算. Cost: 0.0'
+  comment: ! 'Covers: 米饭. Cost: 0.0'
 - chinese: ! '......你喜欢什么？'
   english:
   - What do you like?
@@ -44,6 +50,21 @@
   - I don't like coffee.
   type: chinese
   comment: ! 'Covers: 咖啡. Cost: 0.0'
+- chinese: 啤酒我不太喜欢。
+  english:
+  - I don't like beer that much.
+  type: chinese
+  comment: ! 'Covers: 太. Cost: 0.0'
+- chinese: 为什么你不吃蔬菜？
+  english:
+  - Why don't you eat vegetables?
+  type: chinese
+  comment: ! 'Covers: 蔬菜. Cost: 1.2017353057815485e-3'
+- chinese: 我不喜欢吃辣的。
+  english:
+  - I don't like spicy food.
+  type: chinese
+  comment: ! 'Covers: 辣. Cost: 1.2017353057815485e-3'
 - chinese: 你是我的。
   english:
   - You're mine.
@@ -59,31 +80,6 @@
   - Are you hot?
   type: chinese
   comment: ! 'Covers: 热. Cost: 0.0'
-- chinese: 啤酒我不太喜欢。
-  english:
-  - I don't like beer that much.
-  type: chinese
-  comment: ! 'Covers: 太. Cost: 0.0'
-- chinese: 我不喜欢吃辣的。
-  english:
-  - I don't like spicy food.
-  type: chinese
-  comment: ! 'Covers: 辣. Cost: 1.2017353057815485e-3'
-- chinese: 为什么你不吃蔬菜？
-  english:
-  - Why don't you eat vegetables?
-  type: chinese
-  comment: ! 'Covers: 蔬菜. Cost: 1.2017353057815485e-3'
-- chinese: 水是凉的
-  english:
-  - The water is cold
-  type: chinese
-  comment: ! 'Covers: 水. Cost: 0.0'
-- chinese: 你们有没有米饭？
-  english:
-  - Do you have rice?
-  type: chinese
-  comment: ! 'Covers: 米饭. Cost: 0.0'
 - chinese: 我去买面包。
   english:
   - I'm going to buy some bread.
@@ -99,6 +95,11 @@
   - I feel like having some dumplings.
   type: chinese
   comment: ! 'Covers: 饺子. Cost: 1.2017353057815485e-3'
+- chinese: 做多少算多少。
+  english:
+  - Catch as catch can.
+  type: chinese
+  comment: ! 'Covers: 算. Cost: 0.0'
 - chinese: 你用多少糖？
   english:
   - How much sugar do you use?
@@ -110,6 +111,11 @@
   - How much is a beer?
   type: chinese
   comment: ! 'Covers: 啤酒. Cost: 0.0'
+- chinese: 我要一个鱼。
+  english:
+  - I'd like a fish.
+  type: chinese
+  comment: ! 'Covers: 鱼. Cost: 0.0'
 - chinese: 我买了两瓶牛奶。
   english:
   - I bought two bottles of milk.
@@ -135,22 +141,16 @@
   - Would you like to drink beer or juice?
   type: chinese
   comment: ! 'Covers: 果汁. Cost: 2.395496466642712e-3'
-- chinese: 請给我们两碗饭。
-  english:
-  - Please give me two bowls of rice.
-  type: chinese
-  comment: ! 'Covers: 碗. Cost: 1.096358991788271e-3'
 - chinese: 求你了，给我一个瓶子吧！
   english:
   - I beg you, give me a bottle!
   type: chinese
   comment: ! 'Covers: 瓶子. Cost: 3.076544425301501e-3'
-- chinese: 他与她是朋友。
+- chinese: 請给我们两碗饭。
   english:
-  - They are friends
-  - He and she are friends
+  - Please give me two bowls of rice.
   type: chinese
-  comment: ! 'Covers: 与. Cost: 1.2894075172458256e-3'
+  comment: ! 'Covers: 碗. Cost: 1.096358991788271e-3'
 - chinese: 将费用记在我的账上。
   english:
   - Charge this bill to me.
